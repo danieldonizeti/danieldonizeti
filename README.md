@@ -103,4 +103,4 @@ A recomendação é realizada por meio da recuperação dos itens com maior simi
 ---
 
 ## Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-donizeti-853320239)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-donizeti-853320239)
