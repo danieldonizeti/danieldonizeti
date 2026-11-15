@@ -97,12 +97,10 @@ A recomendação é realizada por meio da recuperação dos itens com maior simi
 
 ## Formação
 
-- **Análise e Desenvolvimento de Sistemas** — Graduação concluída.
-- **Engenharia de IA Aplicada** — Pós-graduação em andamento.
+- **Análise e Desenvolvimento de Sistemas**  Graduação concluída.
+- **Engenharia de IA Aplicada**  Pós-graduação em andamento.
 
 ---
 
 ## Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-donizeti-de-souza)
-[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danieldonizetidesouza@gmail.com)
+[![LinkedIn](www.linkedin.com/in/daniel-donizeti-853320239)
